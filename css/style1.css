@@ -1,0 +1,55 @@
+/* Ajuste para evitar que o rodapé fixo esconda o conteúdo */
+body {
+  padding-bottom: 60px;
+  background-color: #f8f9fa;
+}
+
+/* Rodapé fixo e estilizado */
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #212529;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px 0;
+  box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.2);
+  font-size: 0.9rem;
+  z-index: 1030;
+}
+
+/* Títulos centralizados */
+h1, h2, h3 {
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Espaçamento entre seções */
+section {
+  margin-bottom: 2rem;
+}
+
+/* Botões padronizados */
+.btn {
+  min-width: 100px;
+  margin-right: 5px;
+}
+
+/* Tabelas com melhor legibilidade */
+.table {
+  font-size: 0.95rem;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.table thead th {
+  background-color: #343a40;
+  color: #fff;
+}
+
+/* Espaço extra em formulários */
+form .form-control {
+  margin-bottom: 1rem;
+}
