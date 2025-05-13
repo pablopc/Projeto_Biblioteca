@@ -21,7 +21,7 @@ Este é um sistema de gerenciamento de biblioteca desenvolvido em PHP com banco 
 ## 🗂️ Estrutura do Projeto
 
 ```
-biblioteca-php/
+Projeto_Biblioteca/
 ├── banco/
 │   ├── biblioteca_2025.sql
 ├── css/
