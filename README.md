@@ -25,6 +25,8 @@ Projeto_Biblioteca/
 ├── banco/
 │   ├── biblioteca_2025.sql
 ├── css/
+├── fontawesome/
+├── js/
 ├── config.php
 ├── index.php
 ├── *.php (páginas do sistema)
@@ -60,7 +62,7 @@ C:/xampp/htdocs/Projeto_Biblioteca
 - Acesse o `phpMyAdmin`
 - Crie um banco com o nome: `biblioteca_2025`
 - Vá em **Importar** e envie:
-  - `banco/biblioteca_2025_estrutura.sql`
+  - `banco/biblioteca_2025.sql`
 
 4. **Acesse no navegador:**
 
